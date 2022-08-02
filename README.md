@@ -4,7 +4,7 @@
 
 # How To Use
 
-##### The two .ipynb files are the code to generate the waypoint maps. Thanks to Hasarindu Perera, a much better racer than myself, for making the notebooks easier to read and also including a local version.
+##### The two .ipynb files are the code to generate the waypoint maps. Thanks to Hasarindu Perera, a much better racer than myself, for making the notebooks easier to read and also including a local version. Further thanks to him for continuing to update the maps while I have been mostly inactive. 
 
 ##### The tracks folder contains the NumPy arrays that contain the track waypoints in xy coordinate space. The maps folder contains the finished waypoint maps for your use, in .png format.
 
